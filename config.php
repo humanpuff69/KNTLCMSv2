@@ -1,0 +1,16 @@
+<?php return array (
+  'installed' => 'sudah',
+  'servername' => 'localhost',
+  'username' => 'rahtar',
+  'password' => 'rahtarmemek',
+  'dbname' => 'kntlcms',
+  'title' => 'Besok.MEN',
+  'desc' => 'Powered By KNTLCMS',
+  'webinfo' => 'Besok.MEN adalah website yang berisi prediksi hal yang terjadi kepada kamu besok hari namun jangan dianggap serius karena ini hanya untuk hiburan saja . semua hasil yang muncul adalah hasil randomisasi atau acak',
+  'default_image' => 'logo-color.png',
+  'slogan' => '#nama itu adalah prediksi apa yang akan terjadi besok',
+  'judul' => '#nama #entri',
+  'rangemin' => '1',
+  'rangemax' => '100',
+  'hash' => '33cd105d9620950f1dcb28e1fd94d7325a2214f5',
+);
